@@ -1,4 +1,11 @@
-## How to install AdminLte3 with webpack
+
+# What is it?
+
+It's a ready to use AdminLTE3 bootstrap template(free version) with Symfony 5. Just make your template extend from base.html.twig and have fun!
+
+---
+
+## How to install AdminLte3 with webpack ( What I've done 🙂 )
 
 ### 1 - Add Webpack encore on your symfony project
 
@@ -22,8 +29,4 @@ yarn encore dev-server
 ### 4 - Integrate base template
 
 It's now the harder part of the tutorial. We have to modify the app.js file to include all of the javascripts module and stylesheets to make it work.
- 
--  
-
-
 
